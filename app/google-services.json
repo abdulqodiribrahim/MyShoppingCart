@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "427652494864",
+    "firebase_url": "https://pemprogramanperangkatbergerak.firebaseio.com",
+    "project_id": "pemprogramanperangkatbergerak",
+    "storage_bucket": "pemprogramanperangkatbergerak.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427652494864:android:5de6991bdeb21b5aae7c95",
+        "android_client_info": {
+          "package_name": "com.example.daftarbelanjahari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427652494864-oe7ael3ccej3i7fqat0lhud8tpv5mb0q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.daftarbelanjahari",
+            "certificate_hash": "64c800e654378af8c62a6b8b8384a5ade85dfb03"
+          }
+        },
+        {
+          "client_id": "427652494864-easulucq449uj6ugmou0ok5af6jminmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMKtdcCUjpOCiwTfXcDuslRARwqvWVGkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427652494864-easulucq449uj6ugmou0ok5af6jminmo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
